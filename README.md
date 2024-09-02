@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=faf200&height=180&text=Welcome%20To%20My%20dongdra%20repository&animation=twinkling&fontColor=000000&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=faf200&height=180&text=Welcome%20To%20My%20dongdra%20Repository&animation=twinkling&fontColor=ffffff&fontSize=50" />
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Introduction </h2>  
