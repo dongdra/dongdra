@@ -47,7 +47,7 @@
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   </p>
   <div align="center">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats 🏅 </h2>
+  <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats 🏅 </h1>
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=dongdra&bg_color=180,000000,&title_color=000000&text_color=000000" alt="Stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongdra&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000" alt="Top Languages">
